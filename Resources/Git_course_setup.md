@@ -1,9 +1,9 @@
 # Set up BI621 with Git
 
 ## Set up Git/GitHub
-Be sure you have a (GitHub)[https://github.com/] account and be sure you have (git)[https://git-scm.com/book/en/v2/Getting-Started-Installing-Git] installed on your computer.
+Be sure you have a [GitHub](https://github.com/) account and be sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your computer.
 
-After creating your GitHub account, request and Education account (here)[https://education.github.com/discount_requests/new].
+After creating your GitHub account, request and Education account [here](https://education.github.com/discount_requests/new).
 
 Test your installation by issuing the command ```git``` on the terminal. You should see something like the following:
 ```
@@ -15,7 +15,7 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
 
 These are common Git commands used in various situations:
 ```
-Here are some (Git and GitHub learning resources)[https://help.github.com/articles/git-and-github-learning-resources/] to help.
+Here are some [Git and GitHub learning resources](https://help.github.com/articles/git-and-github-learning-resources/) to help.
 
 Be sure you have provided your GitHub name to Leslie so you can be added to the 2017_Bi621 repository. Look for the invitation link in the email address you provided GitHub.
 
@@ -52,7 +52,7 @@ $ git remote -v
 	upstream	https://github.com/Leslie-C/2017_Bi621 (fetch)
 	upstream	https://github.com/Leslie-C/2017_Bi621 (push)
 ```
-3. On your GitHub account, click on the ```Repositories``` tab and click the **New** button.
+3. On your GitHub account, click the ```New Repository``` button.
 4. Enter a repository name. I suggest ```Bi621``` or similar. Add an optional description, and make the repository ```Private``` for now. Do NOT initialize with a ```README```. Create the repository.
 5. On your own computer, issue the following command, but with your GitHub username in place of <username>. If you called your repository something other than ```Bi621```, be sure to change that as well.
 ```
