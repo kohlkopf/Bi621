@@ -30,14 +30,14 @@ The presentation should include:
 Students not presenting the paper are expected to contribute to the discussion by asking thoughtful questions or responding to presenter questions.
 
 ### Executive Summary
-Everyone not presenting a particular paper should turn in an executive summary of the assigned paper(s). These must be *less* than 1 page single spaced and include:
+Everyone not presenting a particular paper should turn in an executive summary of the assigned paper(s). These must between 1/2 and 1 page single spaced and include:
 1.	Properly formatted bibliographic information (1 point)
 2.	Summary of the main findings (4 points)
-3.	A brief critique of the data (2.5 points) – do you agree with the authors’ interpretation/experimental design?
+3.	A brief critique of the data (2.5 points) – e.g. do you agree with the authors’ interpretation/experimental design? Do not simply reiterate the main points of the paper.
 4.	A question you have about the paper. Could pertain to methods, data interpretation, future work, etc. (2.5 points)
 
 ## Grading
 Journal clubs will be worth 15% of the course grade broken down as follows:
 - 1/3 Presentation: 1 presentation during the course of the class
 - 1/3 Participation: over all 3 journal clubs
-- 1/3 Executive summary
+- 1/3 Executive summary: each student will write 5 executive summaries
