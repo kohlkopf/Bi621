@@ -4,7 +4,7 @@ We will have 3 days of Journal club presentations. Journal club takes place Frid
 
 | Week | Groups presenting | First paper | Second paper |
 |---|:----:|:---:|:---:|
-| Friday, June 30 | 1 and 2 |  |  |
+| Friday, June 30 | 1 and 2 | [Lamichhaney_2015.pdf](https://github.com/Leslie-C/2017_Bi621/blob/master/journal_clubs/Lamichhaney_2015.pdf) | [Boyle_2017.pdf](https://github.com/Leslie-C/2017_Bi621/blob/master/journal_clubs/Boyle_2017.pdf) |
 | Friday, July 7 | 3 and 4 |  |  |
 | Friday, July 14 | 5 and 6 |  |  |
 
