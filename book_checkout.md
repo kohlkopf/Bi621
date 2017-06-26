@@ -4,7 +4,7 @@
 | Claridge, Sally E | 014 | 008 | 013 |
 | Dewees, Dane |  |  |  |
 | Dinwiddie, Devin | 012 | 005 | 011 |
-| Dowdell, Alexa K |  |  |  |
+| Dowdell, Alexa K | 002 | 011 | 006 |
 | Erikson, Christian B |  |  |  |
 | Goode, Zach H |  |  |  |
 | Ho, David V |  |  |  |
