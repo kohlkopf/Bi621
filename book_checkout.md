@@ -14,7 +14,7 @@
 | Nassar, Luis R |  |  |  |
 | Norris, Brandon M |  |  |  |
 | Onwuzu, Kosiso |  |  |  |
-| Pesce, Frank M |  |  |  |
+| Pesce, Frank M |015  |019  | 017 |
 | VanCampen, Jake A |  |  |  |
 | Wright-Palmer, Matt L |  |  |  |
 | Zavoshy, Nicki S | 016 |018  | 018 |
