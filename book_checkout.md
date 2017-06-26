@@ -3,7 +3,7 @@
 | Bubie, Adrian P |  |  |  |
 | Claridge, Sally E | 014 | 008 | 013 |
 | Dewees, Dane |  |  |  |
-| Dinwiddie, Devin |  |  |  |
+| Dinwiddie, Devin | 012 | 005 | 011 |
 | Dowdell, Alexa K |  |  |  |
 | Erikson, Christian B |  |  |  |
 | Goode, Zach H |  |  |  |
