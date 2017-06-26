@@ -12,7 +12,7 @@
 | Leonti, Amanda R |  |  |  |
 | Meng, Ryan C |  |  |  |
 | Nassar, Luis R |  |  |  |
-| Norris, Brandon M |  |  |  |
+| Norris, Brandon M | 010 | 017 | 007 |
 | Onwuzu, Kosiso |  |  |  |
 | Pesce, Frank M |015  |019  | 017 |
 | VanCampen, Jake A |  |  |  |
