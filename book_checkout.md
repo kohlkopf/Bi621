@@ -8,7 +8,7 @@
 | Erikson, Christian B |  |  |  |
 | Goode, Zach H |  |  |  |
 | Ho, David V |  |  |  |
-| Kinning, Kohl T |  |  |  |
+| Kinning, Kohl T | 007 | 021 | 014 |
 | Leonti, Amanda R |  |  |  |
 | Meng, Ryan C | 009 |014  |015  |
 | Nassar, Luis R |  |  |  |
